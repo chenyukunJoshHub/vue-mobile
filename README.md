@@ -1,3 +1,5 @@
+开发中，暂未发布。  
+
 ## 安装  
 ```js
 npm install vue-mobile
