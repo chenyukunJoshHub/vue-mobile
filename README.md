@@ -7,5 +7,5 @@ npm install vue-mobile
 
 ## 使用  
 ```js
-import 'vue-mobile/lib/components/icons'
+import Icons from 'vue-mobile/lib/components/icons'
 ```
