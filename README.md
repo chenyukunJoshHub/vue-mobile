@@ -2,7 +2,7 @@
 
 ## 安装  
 ```js
-npm install vue-mobile
+npm install --save vue-mobile
 ```
 
 ## 使用  
